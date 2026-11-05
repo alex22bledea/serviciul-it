@@ -8,5 +8,6 @@ export const members = [
   { name: "Alex Bledea", role: "Co-coordonator", photo: "Bledea.webp", email: "nume@mail.ro" },
   { name: "Galis", role: "Co-coordonator", photo: "Galis_nou.webp", email: "nume@mail.ro" },
   { name: "Cristian Josan", role: "Co-coordonator", photo: "Josan.webp", email: "nume@mail.ro" },
+  { name: "Socaciu Petru-Rares", role: "pungas", photo: "doggo.jpg", email: "VasDaEmailDaNuUmbluCuAsaCevaLaMine.gmail.com" },
   { name: "Paul Birilă", role: "Co-coordonator", photo: "Paul.webp", email: "nume@mail.ro" },
 ];
